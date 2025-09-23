@@ -1,0 +1,130 @@
+
+			.myButton {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 1px 9px;
+    border: 0px solid #aeb11b;
+    border-radius: 0px;
+    background: #f8fd27;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f8fd27), to(#aeb11b));
+    background: -moz-linear-gradient(top, #f8fd27, #aeb11b);
+    background: linear-gradient(to bottom, #f8fd27, #aeb11b);
+    -webkit-box-shadow: #ffff2f 0px 0px 0px 0px;
+    -moz-box-shadow: #ffff2f 0px 0px 0px 0px;
+    box-shadow: #ffff2f 0px 0px 0px 0px;
+    text-shadow: #ffff33 0px 0px 0px;
+    font: normal normal bold 15px courier new;
+    color: #111111;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 0px solid ##f8fd27;
+    background: #ffff2f;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffff2f), to(#d1d420));
+    background: -moz-linear-gradient(top, #ffff2f, #d1d420);
+    background: linear-gradient(to bottom, #ffff2f, #d1d420);
+    color: #111111;
+    text-decoration: none;
+}
+.button:active {
+    background: #aeb11b;
+    background: -webkit-gradient(linear, left top, left bottom, from(#aeb11b), to(#aeb11b));
+    background: -moz-linear-gradient(top, #aeb11b, #aeb11b);
+    background: linear-gradient(to bottom, #aeb11b, #aeb11b);
+}
+.button:before{
+    content:  "\0000a0";
+    display: inline-block;
+    height: 16px;
+    width: 16px;
+    line-height: 16px;
+    margin: 0 4px -6px -4px;
+    position: relative;
+    top: 0px;
+    left: -3px;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACDElEQVQ4jXWTS0hUURzGf+eOjjqG87ijCGEIZS1aNNBrUdSilZuIFnc/uxkIKaFVi9m1yogQJtyIqwhaSojkKooQe9AiSaQgKUZyRsd83Dn3f+91oXOdO6MfHPg45zs/vsM5R/m+D8Dk5GQRyLGvF0CeVoUy2Ww2b9RXRCRnWRaWZSEiORHhiBHKALQ1AFhdXQ38cWrOBADHcahWq4E/Ts2ZANA1/4E5rQGIf12gmrnUsjn+7bOe0zpa9zByCDBn3zAcWwZgfnaJtfMXWgDmzDTD3b/wXI+FmUU71MBFITUJvD5o0ygXFRW7hudFcFHhI4gPoiXwhUKhBfBy/CliazzVjuzffriB09DgKNUznlJBxjhcxHN2HcR28AyDqd6E0bh5qjcR9SMRxHYQ7eAezB8+JJ+SvSuIFjr70ojP7UaA+Nzp6u9DtGBvO4hPqamBml7/D1ITzty8iot6MJFOWhPp5KmJdNLyDOPV6RuXkZpQqbq4qGkAVf8LRTOZ6ezu+HK2H2IDgxjnrrD09h3b5QrdZoqhW9fxFj+ytfKbH389RMtQvry+HAAAxs3kWE8sMjqYVsRODtBz8RrtPQmczQ02P71n588KP9dga0ce3SuvPw41qOu5mRrraFOjvSd84p3QZoB4sLEL/7YVWvwnI+XKw3q+BQDwLJXKsP+d7wJpoAS8Bor3K5Xvjdk9YJwaIPVr2ksAAAAASUVORK5CYII=") no-repeat left center transparent;
+    background-size: 100% 100%;
+}
+.article-content-col .content {
+    width: 100%;
+    padding: 0px;
+    flex-direction: column;   
+    background-color: #1c1e1f;
+    text-align: -webkit-center;
+}
+
+.footer-bottom-inner .row {
+    grid-template-columns: 1fr 1fr 1fr;
+    --valign: flex-start;
+    display: none;
+}
+
+.nv-index-posts, .nv-single-post-wrap {
+    margin-bottom: 60px;
+    background-color: #161618;
+	margin-top: 40px;
+}
+
+
+.posts-wrapper {
+    margin-bottom: 10px;
+    background-color: #161618;
+    margin-top: -px;
+}
+
+embed, img, object {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+	  border-bottom-left-radius: 3px;
+	  border-bottom-right-radius: 3px;
+}
+
+h1 {
+	margin: 0px;
+}
+
+.nv-index-posts .nv-page-title-wrap {
+    margin-top: 0;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 6px;
+    padding: 10px;
+    border: solid orange;
+	margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+
+.nv-page-title .neve-breadcrumbs-wrapper, .nv-title-meta-wrap .neve-breadcrumbs-wrapper {
+    margin-bottom: 30px;
+    display: block;
+    display: none;
+}		
