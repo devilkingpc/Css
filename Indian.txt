@@ -1,0 +1,383 @@
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="HD",Aaj Tak HD test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FsCdSrrdPowmizlnlK1xMQ", "kid":"Nr+6OzJpWiiwVbUceF39mA" } ], "type":"temporary" }
+#EXTHTTP:{"cookie":"hdntl=exp=1728064750~acl=%2fbpk-tv%2firdeto_com_Channel_930%2foutput%2f*~id=1320499310~data=hdntl~hmac=7970f8c85b8b323fb84c8471604ff5b5ca579b377470f0cafd5955c99a4d09c5"}
+https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/manifest.mpd|cookie:"hdntl=exp=1728064750~acl=%2fbpk-tv%2firdeto_com_Channel_930%2foutput%2f*~id=1320499310~data=hdntl~hmac=7970f8c85b8b323fb84c8471604ff5b5ca579b377470f0cafd5955c99a4d09c5"
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47647-k2lbp2q8-v2/imageContent-47647-k2lbp2q8-m2.png" group-title="Lifestyle",Tata Play Seniors test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1728072823~acl=%2fbpk-tv%2firdeto_com_Channel_257%2foutput%2f*~id=1300624523~data=hdntl~hmac=9cf3fe3e3851952cfe017499a739c00804f0a88afbabb4b019884c965fec73e4"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iedQClZdWspgv8QvQESqxQ","kid":"9cC6aav6V8u2H96qZHkH_A"}],"type":"temporary"}
+https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/in/startv.com.epg.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/aioepg.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",MTVPlus HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WMKn4wnD95LQ7w","kid":"1R0h7QAAABISEF3s1WtYpg"}],"type":"temporary"}
+https://tplay-mpd.vercel.app/236.mpd
+
+#EXTINF:-1 tvg-id="40" group-title="Test", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png", &tv HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZJfg011f1Pbqzy20g6YmJw","kid":"62rcpupQWiS5nMEDeSqfLg"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"hdnea=exp=1715787156~acl=/*~hmac=bfc42db952b64224eaaca7e7b2240b794529c34c61acd2f94dca24dba0766d81"}
+#http://192.168.1.169:3000/api/mpd?id=40
+https://tataplay.dinesh29.com.np/live/tataplay/and-tv-hd/manifest.mpd
+
+
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-iSH8Wk-Uz7U/YOv6EgndZwI/AAAAAAAAAXQ/CRu7AAz_X3I8Wab7bXNiPenmzcuai7-qACLcBGAsYHQ/s200/images%2B%252813%2529%25281%2529.jpeg" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",BFLIX MOVIES
+#https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+https://idvd.multitvsolution.com/idvo/bixflixmovies.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658d4d3573a17f24dcdb86c0da75e7208e8.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Zee Classic
+http://raptor-tv.com:80/play/live.php?mac=00:1A:79:8B:22:BE&stream=311858&extension=ts
+#EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-pY7gZbSDt7M/YOv71mYSNQI/AAAAAAAAAXc/nSFS4O8T_U0xZ001vsfLtKHzNuUznB-oACLcBGAsYHQ/s200/images%2B%252814%2529%25281%2529.jpeg" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",MAHA MOVIE
+#https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:iptvcat.com
+https://idvd.multitvsolution.com/idvo/mahamovie.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-Q3MsZEvKgnc/YP1NmkhSRBI/AAAAAAAAAoQ/_pAjmCYjb0It9qljvEHkivQGDDwQeyVTwCLcBGAsYHQ/s200/images%2B%252819%2529.jpeg" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",MANORANJAN MOVIES
+#http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/136500
+http://watchindia.net:8880/live/vvv/vvv/804.ts
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",And Pictures HD
+#http://208.86.19.13:81/705.stream/index.m3u8
+http://raptor-tv.com:80/play/live.php?mac=00:1A:79:8B:22:BE&stream=155997&extension=ts
+#EXTINF:-0 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Star Gold HD
+#http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#http://208.86.19.13:81/717.stream/index.m3u8
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Star Gold2
+#http://jrobs.xyz:8880/play/live.php?mac=00:1A:79:17:76:37&stream=862737&extension=ts
+http://raptor-tv.com:80/play/live.php?mac=00:1A:79:8B:22:BE&stream=1112132&extension=ts
+#EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",UTV Action
+#http://208.86.19.13:81/723.stream/index.m3u8
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Colors Cineplex HD
+http://mohdtv.com:8880/ALLChannels681def1d23ec/00463803/1929
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Zee Cinema HD
+#http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+http://probox.mio4ever.eu:8000/play/live.php?mac=00:1A:79:5F:CB:07&stream=41562&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="📺 ɪɴᴅɪᴀɴ ᴍᴏᴠɪᴇs 📺",Star Gold select HD
+#http://208.86.19.13:81/709.stream/index.m3u8
+http://raptor-tv.com:80/play/live.php?mac=00:1A:79:8B:22:BE&stream=155970&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://static.epg.best/in/Zing.in.png" group-title="📺 Music 📺",ZING
+http://iptvtree.net:8080/Houngst20001/8exj9Q7FFed3B3va/173160
+#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="📺 Music 📺",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="📺 Music 📺",MH1 (Music)
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD IN" tvg-logo="https://assets.rstream.me/images/j/kJJCWyggSO.png" group-title="📺 Music 📺",MTV BEATS HD
+#https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" group-title="📺 Music 📺",MUSIC INDIA
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/877600.m3u8
+
+
+#EXTINF:-1 tvg-country="IN" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="📺 English Movies 📺",MOVIES NOW HD
+#http://showflix.org:5890/rahma/12345/143319
+#http://46.105.112.116/?watch=R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#http://jrobs.xyz:8880/play/live.php?mac=00:1A:79:17:76:37&stream=862687&extension=ts
+#http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5E:5E:1E&stream=862687&extension=ts
+#http://ip.opentv.ma/play/live.php?mac=00:1A:79:03:9A:1C&stream=178808&extension=ts
+http://scarnet.xyz:8880/play/live.php?mac=00:1A:79:a0:bf:ea&stream=862687&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="& Flix HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5a737269a9fe8e92996004e44af68780.png" group-title="📺 English Movies 📺",&amp;Flix HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://mohdtv.com:8880/ALLChannels681def1d23ec/00463803/1956
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg" group-title="📺 English Movies 📺",&amp;Prive HD
+http://mohdtv.com:8880/ALLChannels681def1d23ec/00463803/1963
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="📺 English Movies 📺",HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#http://212.102.60.231/HBO_FAMILY/index.m3u8
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="📺 English Movies 📺",AXN 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="📺 English Movies 📺",Star Movies HD
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in/tracks-v1a1/mono.m3u8?token=token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:0E:D7:F4&stream=862740&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="StarmoviesSelecthd.in" tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="📺 English Movies 📺",Star Movies Select HD
+http://chunkymunky.site:8080/play/live.php?mac=00:1a:79:4a:70:09&stream=147481&extension=ts
+#EXTINF:-1 tvg-logo="" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Rakuten Action Movies
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",Warner WB
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" tvg-country="IN" tvg-url="" group-title="📺 English Movies 📺",HallMark 
+https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="📺 English Movies 📺",Pluto TV Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Comedy" tvg-logo="https://i.imgur.com/Pjs4lgs.png" group-title="📺 English Movies 📺",Pluto TV Comedy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/B9srooj.png" group-title="📺 English Movies 📺",Pluto TV Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Fantastic" tvg-logo="https://i.imgur.com/dOfXc5w.png" group-title="📺 English Movies 📺",Pluto TV Fantastic
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/j6livg0.png" group-title="📺 English Movies 📺",Pluto TV Romance
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Crime Movies" tvg-logo="https://i.imgur.com/PlAQrIb.png" group-title="📺 English Movies 📺",Pluto TV Crime Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/jyiFzG4.png" group-title="📺 English Movies 📺",Pluto TV Thrillers
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Horror" tvg-logo="https://i.imgur.com/An93hAh.png" group-title="📺 English Movies 📺",Pluto TV Horror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/JLgn5jC.png" group-title="📺 English Movies 📺",Pluto TV Terror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
+#EXTINF:-0 tvg-country="IN" tvg-logo="https://files.prokerala.com/news/photos/imgs/800/doordarshan-logo-774942.jpg" group-title="📺News 📺",DD NATIONAL
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+
+
+#EXTINF:-1 tvg-country="IN" tvg-logo="https://i.imgur.com/wHNzQ4U.png" group-title="📺News 📺",Sansad TV
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png " group-title="📺News 📺",ABP News
+#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AAJ TAK HD" tvg-logo="#EXTINF:0 tvg-country="IN" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="📺News 📺",AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-Co8iOD57Xy4/YP1JsL3s00I/AAAAAAAAAnI/hpzmKN2BN4YjplHVKNFUdfyaY396Q3FFwCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg" group-title="📺News 📺",CNBC Awaaz
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="📺News 📺",DD NEWS
+https://ytlive.iptvhub.workers.dev/stream/ddnews/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="📺News 📺",INDIA NEWS
+https://livehub.udx.workers.dev/index.php?c=indianews
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/IYXrLPs.png" group-title="📺News 📺",India TV
+#https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in.m3u8
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="📺News 📺",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-ID="Zee.News.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png" group-title="📺News 📺",Zee News
+#http://raptor-tv.com:80/play/live.php?mac=00:1A:79:8B:22:BE&stream=156051&extension=ts
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/80vwZaO.png" group-title="📺News 📺",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="📺News 📺",NEWS 24
+#https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/playlist.m3u8
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-3Uciudd_7c4/YOrMDu0b_FI/AAAAAAAAAS0/iCm5y2aHGaU7rvEsvK333J9fTQ2FvxkXQCLcBGAsYHQ/s200/images%2B%252811%2529.jpeg" group-title="📺News 📺",News 18 India
+#http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/247511
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="📺News 📺",News 18 Rajasthan
+https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="📺News 📺",News 24
+#https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8?checkedby:iptvcat.com
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Republic_Bharat.jpg/revision/latest?cb=20181127101931" group-title="📺News 📺",Republic Bharat
+https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/PvI2PCX.png" group-title="📺News 📺",Republic TV
+https://weblive.republicworld.com:443/httppush/ottr_republic_english/chunklist_4.m3u8
+
+#EXTINF:-1 ch-id="WION (IN)" tvg-logo="https://1.bp.blogspot.com/-zhLWeHSVJg4/YQfb9ICkHsI/AAAAAAAAAyc/G9DmQdbQ9UcGKfleMsZ_XIeKIGl5DmAMgCLcBGAsYHQ/s200/1200px-WION_news_Logo.svg.png"  group-title="📺News 📺",WION
+#https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png"" group-title="📺News 📺",Times Now HD
+https://dai.google.com/linear/hls/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="https://static.epg.best/in/NewsNation.in.png" group-title="📺News 📺",NEWS NATION
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Newsnation/default/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png"  group-title="📺News 📺",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal planet HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png"  group-title="📺 DOCUMENTRY 📺",Animal Planet Hindi
+#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="📺 DOCUMENTRY 📺",National Geographic HD
+#http://jrobs.xyz:8880/play/live.php?mac=00:1A:79:7C:C8:60&stream=862692&extension=ts
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:0E:E0:9D&stream=862692&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="📺 DOCUMENTRY 📺",NAT GEO Wild
+#http://jrobs.xyz:8880/play/live.php?mac=00:1A:79:09:C9:60&stream=862692&extension=ts
+#http://46.105.112.116/?watch=R-EX/HINDI_NAT_GEO_WILD_HD-in/tracks-v1a2/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#http://epiktv.rocks:8080/play/live.php?mac=00:1A:79:3F:21:EE&stream=147445&extension=ts
+http://p5.giffy.be:8080/play/live.php?mac=00:1A:79:36:17:74&stream=21060&extension=ts
+
+
+#EXTINF:-1 tvg-id="disc.sience" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/G71vtRQ/disscience.png" group-title="📺 DOCUMENTRY 📺",Discovery Science
+#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
+
+#EXTINF:-1 tvg-country="IN" tvg-logo="https://1.bp.blogspot.com/-B3P6m94cx3A/YPlfzqeTTwI/AAAAAAAAAis/sE99jUtbw58QUg8TU67wURdpDbFsjXC6QCLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.jpeg" group-title="📺 DOCUMENTRY 📺",DISCOVERY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="History TV 18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="📺 DOCUMENTRY 📺", History TV18 HD
+#http://46.105.112.116/?watch=R-EX/HINDI_HISTORY_TV_18_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+http://raptor-tv.com:80/play/live.php?mac=00:1A:79:8B:22:BE&stream=1118065&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://assets.rstream.me/images/h/OCsZipbCKK.jpg" group-title="📺 Sports 📺",STAR SPORTS 1 HINDI HD
+#http://46.105.112.116/?watch=R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#http://jrobs.xyz:8880/play/live.php?mac=00:1A:79:7C:C8:60&stream=862744&extension=ts
+http://bronzetv.xyz:80/play/live.php?mac=00:1a:79:4B:BA:2F&stream=16906&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="📺 Sports 📺",STAR SPORTS 1 HD
+#http://103.55.144.46/hls/stersports1hd.m3u8
+#http://jrobs.xyz:8880/play/live.php?mac=00:1A:79:09:C9:60&stream=862743&extension=ts
+#http://b1g.one:80/play/live.php?mac=00:1A:79:62:57:76&stream=260998&extension=ts
+http://mag.you24.online:80/order18166/8b12gpkop7/3979
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.ibb.co/wcK3jYW/starsports2.jpg" group-title="📺 Sports 📺",STAR SPORTS 2 HD
+#http://103.55.144.46/hls/starsports2.m3u8
+#http://46.105.112.116/?watch=R-EX/FHD_STAR_SPORTS_2_-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#http://b1g.one:80/play/live.php?mac=00:1A:79:62:57:76&stream=260999&extension=ts
+http://mag.you24.online:80/order18166/8b12gpkop7/397844
+
+#EXTINF:-1 tvg-id="" tvg-name="DDSports.in" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="📺 Sports 📺",DD Sports
+#http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#http://b1g.one:80/play/live.php?mac=00:1a:79:4B:BA:2F&stream=20948&extension=ts
+http://txm1.flysat.live:2089/9152894094/3603122011/203422
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSportsCricket.in" tvg-logo="http://b1g.me/logos2/supersports_cricket.jpg" group-title="📺 Sports 📺",SuperSports Cricket HD
+#http://b1g.one:80/play/live.php?mac=00:1A:79:62:57:76&stream=260996&extension=ts
+#http://nextlevelmedia.xyz:8880/play/live.php?mac=00:1A:79:09:C9:60&stream=610018&extension=ts
+http://mag.you24.online:80/order18166/8b12gpkop7/688714
+
+
+#EXTINF:-1 tvg-id="" tvg-name="skycricket.in" tvg-logo="http://omahtv.mw.lt/sport/skycricket.png" group-title="📺 Sports 📺",Sky Cricket
+#http://jrobs.xyz:8880/play/live.php?mac=00:1A:79:7C:C8:60&stream=623585&extension=ts
+#http://ip.opentv.ma:8000/play/live.php?mac=00:1a:79:92:33:82&stream=22310&extension=ts
+http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/19616
+
+#EXTINF:-1 tvg-id="" tvg-name="T-20 WC: WILLOW CRICKET HD" tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" group-title="📺 Sports 📺",WILLOW CRICKET HD
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="Sony Ten 1 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten1in.jpg" group-title="📺 Sports 📺",Sony Ten 1 HD IN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 Chrome/95.0.4638.54
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten2in.jpg" group-title="📺 Sports 📺",Sony Ten 2 HD IN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 Chrome/95.0.4638.54
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="Sony Ten 3 IN" tvg-logo="https://picon-13398.kxcdn.com/sonyten3in.jpg" group-title="📺 Sports 📺",Sony Ten 3 IN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 Chrome/95.0.4638.54
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="Sony Six HD IN" tvg-logo="https://picon-13398.kxcdn.com/sonysixin.jpg" group-title="📺 Sports 📺",Sony Six HD IN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 Chrome/95.0.4638.54
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1  tvg-id="WWE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCBCyHERjXilL4TmnZmTdIhHDlnZxFFcpqQ&usqp=CAU" group-title="📺 Sports 📺",WWE
+http://mohdtv.com:8880/ALLChannels681def1d23ec/00463803/1698
+
+#EXTINF:-1  tvg-id="WWE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCBCyHERjXilL4TmnZmTdIhHDlnZxFFcpqQ&usqp=CAU" group-title="📺 Sports 📺",WWE-1
+http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus 4K" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="📺 Entertainment 📺",Star Plus
+http://mohdtv.com:8880/ALLChannels681def1d23ec/00463803/55274
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="📺 Entertainment 📺",STAR PLUS HD
+#http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#http://46.105.112.116/?watch=R-EX/FHD_STAR_PLUS_-in/tracks-v1a2/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#http://212.224.84.213:2200/R-EX/FHD_STAR_PLUS_-in/tracks-v1a2/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+http://iptvtree.net:8080/live/GenIptvLast/FaP6YswK77NaOPOF/16091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Bharat HD" tvg-logo="https://assets.rstream.me/images/h/sIwoBqiEao.jpg" group-title="📺 Entertainment 📺",STAR BHARAT HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="📺 Entertainment 📺",SONY
+#http://103.72.179.30:1935/GECHindi/ngrp:SONY.stream_all/Playlist.m3u8
+http://darkteam.vip:25461/live/hydraip438rjr93482/jhwgeuiy94838238940/13152.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="📺 Entertainment 📺",Sony HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 Chrome/95.0.4638.54
+#http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
+#EXTINF: -1 tvg-chno="1" tvg-logo="http://tank.tskytech.com/jumpstart/transparentImage/Colors HD.png" group-title="📺 Entertainment 📺", COLORS HD
+http://mohdtv.com:8880/ALLChannels681def1d23ec/00463803/1931
+#EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="📺 Entertainment 📺", Sony SAB
+#http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV HD IN" tvg-logo="https://picon-13398.kxcdn.com/zeetv.jpg" group-title="📺 Entertainment 📺",Zee TV HD
+#http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8
+#http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
+#http://208.86.19.13:81/606.stream/index.m3u8
+http://93.152.174.144:4000/play/zee/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="📺 KIDS 📺",Sony Yay Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 Chrome/95.0.4638.54
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqvWDU4.jpg" group-title="📺 KIDS 📺",Bumblebee TV Lets Play Minecraft
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
+#EXTINF:-1 ch-id="POGO" tvg-logo="https://1.bp.blogspot.com/-0sJ65-yM264/YOrRLWZfXBI/AAAAAAAAAUM/tbLs61VZRUwJu1a_5Ry9K43Groe72M8BgCLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.jpeg"  group-title="📺 KIDS 📺",POGO
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 ch-id="NICK" tvg-logo="https://1.bp.blogspot.com/-xTgySQS_-DU/YOrRW4qp51I/AAAAAAAAAUU/253fzyVw7LIBbSAO2-Pj40oGIfCE1MbZQCLcBGAsYHQ/s200/images%2B%25281%2529%25287%2529.png"  group-title="📺 KIDS 📺",NICK
+#http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
+#http://txm.flysat.live:80/152087358316713/152005715299018/206203
+http://46.105.112.116/?watch=R-EX/KIDS_Nick-in/index.m3u8?token=token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 ch-id="NICK JR" tvg-logo="https://1.bp.blogspot.com/-krvwwWQ5VRY/YOrRgtPoHaI/AAAAAAAAAUY/qfkCfPeQH_A1AN1jVu77ZXHEvcG70zNjgCLcBGAsYHQ/s200/images%2B%25282%2529%25283%2529.png"  group-title="📺 KIDS 📺",NICK JR
+http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1 ch-id="DISCOVERY KIDS" tvg-logo="https://1.bp.blogspot.com/-q5aGCfclS3U/YOrA3Z3-VHI/AAAAAAAAAPM/c19BDzhkHAkumK_hcWalV6h-PLzGOMkoQCLcBGAsYHQ/s200/1200px-2016_Discovery_Kids_logo.svg.png"  group-title="📺 KIDS 📺",DISCOVERY KIDS
+http://mohdtv.com:8880/ALLChannels681def1d23ec/00463803/1911
+#EXTINF:-1 ch-id="CARTOON NETWORK" tvg-logo="https://1.bp.blogspot.com/-8ACpjCCDeNY/YOrApjj-9CI/AAAAAAAAAPE/2w22Y7_ReDod9co7s2rMLKpchLbABx5KgCLcBGAsYHQ/s200/images%2B%25287%2529%25282%2529.jpeg"  group-title="📺 KIDS 📺",CARTOON NETWORK
+http://mohdtv.com:8880/ALLChannels681def1d23ec/00463803/1923
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png"  group-title="📺 KIDS 📺",Disney Junior
+http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="📺 KIDS 📺",Nickelodeon
+http://sultan-iptv.com:80/102030405060/605040302010/73835
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" tvg-chno="11" group-title="📺 KIDS 📺",Nick Pluto TV
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="📺 KIDS 📺",Nickelodeon Pluto TV
+https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="📺 KIDS 📺",Dora TV
+https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="📺 KIDS 📺",Nick Jr. Pluto TV
+https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="📺 KIDS 📺",Tom & Jerry
+#http://txm.flysat.live:2089/dEFjnAaAEX/DfYVrcHn86/202614
+http://ky-iptv.com:80/Rico1/Rico2/1860021.ts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="📺 KIDS 📺",Tom & Jerry_1
+#http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/55940
+http://hidra.live:80/okihbdnf/viM2fu5M15/35484
+#EXTINF:-1 channel-id="3796" radio="false" tvg-id="5ad8d54be738977e2c310940" tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" tvg-chno="1" group-title="📺Pluto - Kids📺",Pluto TV Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1017&deviceId=5ad8d54be738977e2c310940&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3798" radio="false" tvg-id="5c5c2b9d8002db3c3e0b1c6d" tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" tvg-chno="3" group-title="📺Pluto - Kids📺",Pluto TV Retro Toons
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1000&deviceId=5c5c2b9d8002db3c3e0b1c6d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3799" radio="false" tvg-id="5c5c2e228002db3c3e0b1c6f" tvg-logo="https://images.pluto.tv/channels/5c5c2e228002db3c3e0b1c6f/colorLogoPNG.png" tvg-chno="4" group-title="📺Pluto - Kids📺",Pluto TV Kids Learn
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c2e228002db3c3e0b1c6f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1016&deviceId=5c5c2e228002db3c3e0b1c6f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3800" radio="false" tvg-id="5d765786aad587cf4d0e2bf6" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" tvg-chno="5" group-title="📺Pluto - Kids📺",Inspector Gadget
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1010&deviceId=5d765786aad587cf4d0e2bf6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3801" radio="false" tvg-id="5d94a5451754e6a4298d1059" tvg-logo="https://images.pluto.tv/channels/5d94a5451754e6a4298d1059/colorLogoPNG.png" tvg-chno="6" group-title="📺Pluto - Kids📺",Sabrina Teenage Witch
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d94a5451754e6a4298d1059/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1011&deviceId=5d94a5451754e6a4298d1059&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3802" radio="false" tvg-id="5dbc264e0451770009ed742f" tvg-logo="https://images.pluto.tv/channels/5dbc264e0451770009ed742f/colorLogoPNG.png" tvg-chno="7" group-title="📺Pluto - Kids📺",Mario vs. Sonic
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dbc264e0451770009ed742f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1012&deviceId=5dbc264e0451770009ed742f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3803" radio="false" tvg-id="5dc3fc6b9133f500099c7d98" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" tvg-chno="8" group-title="📺Pluto - Kids📺",Pluto TV Family
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1006&deviceId=5dc3fc6b9133f500099c7d98&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3804" radio="false" tvg-id="51c75f7bb6f26ba1cd00002f" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" tvg-chno="9" group-title="📺Pluto - Kids📺",Pluto TV Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3805" radio="false" tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" tvg-chno="10" group-title="📺Pluto - Kids📺",After School Cartoons
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3806" radio="false" tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" tvg-chno="11" group-title="📺Pluto - Kids📺",Nick Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3807" radio="false" tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" tvg-chno="12" group-title="📺Pluto - Kids📺",Nick Jr. Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3808" radio="false" tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" tvg-chno="13" group-title="📺Pluto - Kids📺",TOTALLY TURTLES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=983&deviceId=5d0c16d686454ead733d08f8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3809" radio="false" tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" tvg-chno="14" group-title="📺Pluto - Kids📺",Dora TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3812" radio="false" tvg-id="5dae0a40e8ee0d000975e99b" tvg-logo="https://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" tvg-chno="17" group-title="📺Pluto - Kids📺",pocket.watch
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=993&deviceId=5dae0a40e8ee0d000975e99b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3813" radio="false" tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" tvg-chno="18" group-title="📺Pluto - Kids📺",Pluto TV Kids Animation
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=976&deviceId=5db0ad56edc89300090d2ebb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3814" radio="false" tvg-id="5db0ae5af8797b00095c0794" tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" tvg-chno="19" group-title="📺Pluto - Kids📺",Pluto TV Tween
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=991&deviceId=5db0ae5af8797b00095c0794&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 channel-id="3815" radio="false" tvg-id="5eb301b7395671000780d100" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" tvg-chno="20" group-title="📺Pluto - Kids📺",Little Baby Bum
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb301b7395671000780d100/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=995&deviceId=5eb301b7395671000780d100&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
