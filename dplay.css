@@ -1,0 +1,134 @@
+/* Table reset */
+.links_table {
+  width: 100%;
+  margin: 20px 0;
+  border-collapse: collapse;
+  font-family: 'Inter', sans-serif;
+}
+
+.links_table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.links_table thead {
+  display: none; /* hide table headers */
+}
+
+/* Turn each row into a card */
+.links_table tbody tr {
+  display: block;
+  margin: 16px 0;
+  border-radius: 18px;
+  overflow: hidden;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.12);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.18);
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.links_table tbody tr::before {
+  content: "";
+  display: block;
+  height: 4px;
+  width: 100%;
+  position: absolute;
+  top: 0; left: 0;
+  background: linear-gradient(90deg, #6e45e2 0%, #88d3ce 50%, #6e45e2 100%);
+  background-size: 200% 200%;
+  animation: gradientFlow 3s ease infinite;
+}
+
+@keyframes gradientFlow {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.links_table tbody tr:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(0,0,0,0.25);
+}
+
+/* Cell layout inside card */
+.links_table tbody td {
+  display: inline-block;
+  padding: 14px 18px;
+  vertical-align: middle;
+  border: none;
+}
+
+/* First cell: download link */
+.links_table tbody td:first-child {
+  width: 100%;
+  text-align: center;
+  padding: 24px 18px;
+  background: rgba(255,255,255,0.03);
+}
+
+.links_table tbody td:first-child img {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+.links_table tbody td:first-child a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 11px 22px;
+  color: #fff;
+  background: linear-gradient(135deg, #6e45e2 0%, #88d3ce 100%);
+  border-radius: 50px;
+  box-shadow: 0 6px 18px rgba(110,69,226,0.35);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  min-width: 160px;
+}
+
+.links_table tbody td:first-child a:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 28px rgba(110,69,226,0.45);
+}
+
+/* Quality / Language / Size badges */
+.quality, .links_table tbody td:nth-child(3), .links_table tbody td:nth-child(4) {
+  display: inline-block;
+  padding: 4px 14px;
+  margin: 6px;
+  border-radius: 40px;
+  font-size: 14px;
+  font-weight: 600;
+  border: 1px solid transparent;
+}
+
+.quality {
+  color: #00E5FF;
+  background: rgba(0,229,255,0.12);
+  border-color: rgba(0,229,255,0.25);
+}
+
+.links_table tbody td:nth-child(3) { /* Language */
+  color: #FFD700;
+  background: rgba(255,215,0,0.12);
+  border-color: rgba(255,215,0,0.25);
+}
+
+.links_table tbody td:nth-child(4) { /* Size */
+  color: #FF6B6B;
+  background: rgba(255,107,107,0.12);
+  border-color: rgba(255,107,107,0.25);
+}
+
+/* Hide extra cells (clicks, added, user) or style them as footnotes */
+.links_table tbody td:nth-child(5),
+.links_table tbody td:nth-child(6),
+.links_table tbody td:nth-child(7) {
+  display: none;
+}
